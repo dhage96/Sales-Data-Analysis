@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard – Power BI  
+s# 📊 Sales Dashboard – Power BI  
 
 ## 🏆 Project Objective  
 The goal of this project is to **analyze and visualize sales performance** using **Power BI**, helping businesses gain insights into revenue, orders, and product trends for data-driven decision-making.  
@@ -20,7 +20,7 @@ The goal of this project is to **analyze and visualize sales performance** using
 5. **Insights & Analysis** – Identified trends, gaps, and performance improvements.  
 
 ## 🖼️ Dashboard Preview  
-![Sales Dashboard](Screenshot%202025-02-11%20182656.png)  
+![Sales Dashboard](Dashboard.png)  
 
 ## 📌 Key Insights  
 - **Revenue is below the target (-6.15%)**, indicating a need for better sales strategies.  
